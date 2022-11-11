@@ -1,0 +1,138 @@
+
+*************TESTING*************
+11/01/2022, 13:48:56
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:31:09
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:32:38
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:32:52
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:36:18
+test_all (__main__.TestFunctions) ... ok
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.019s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:40:43
+test_all (__main__.TestFunctions) ... ok
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:41:44
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.003s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:42:08
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:42:17
+test_sumar_diagram (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:45:32
+test_all (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:46:26
+test_all (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+
+*************TESTING*************
+11/01/2022, 17:48:10
+test_all (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
