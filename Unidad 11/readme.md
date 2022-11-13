@@ -9,3 +9,4 @@ Tomando como base el ejercicio práctico de la unidad 10 (Test-Calculadora):
 - En la carpeta "tests" se encuentra el script que realiza pruebas unitarias.
 - En la carpeta "docs" se generan los diagramas de secuencia.
 - Se dispone de un archivo "requirements.txt" para instalar las dependencias necesarias para el funcionamiento del programa.
+- Se dispone de un archivo "testing.txt" el cuál contiene los resultados de los test.
