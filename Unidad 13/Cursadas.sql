@@ -23,18 +23,18 @@ CREATE TABLE Cursa(
 );
 
 INSERT INTO Alumno VALUES
-(4233, 'Pedro', 'Álvarez', '1995-08-15'),
-(3235, 'Juan Ignacio', 'Hernández', '1997-05-21'),
-(4563, 'Martín', 'Ledesma', '1996-04-03'),
+(4233, 'Pedro', 'ï¿½lvarez', '1995-08-15'),
+(3235, 'Juan Ignacio', 'Hernï¿½ndez', '1997-05-21'),
+(4563, 'Martï¿½n', 'Ledesma', '1996-04-03'),
 (4421, 'Camila', 'Morales', '1999-11-24'),
-(3784, 'Belén', 'Tapia', '1995-01-09');
+(3784, 'Belï¿½n', 'Tapia', '1995-01-09');
 
 INSERT INTO Materia VALUES
-(1, 'Matemáticas'),
-(2, 'Física'),
-(3, 'Química'),
-(4, 'Programación'),
-(5, 'Psicología');
+(1, 'Matemï¿½ticas'),
+(2, 'Fï¿½sica'),
+(3, 'Quï¿½mica'),
+(4, 'Programaciï¿½n'),
+(5, 'Psicologï¿½a');
 
 INSERT INTO Cursa VALUES
 (3784, 1),

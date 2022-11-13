@@ -32,3 +32,7 @@ class TestCalculadora(unittest.TestCase):
         # self.assertEqual(calculadora.dividir(3, 0), None)
         with self.assertRaises(ZeroDivisionError):
             calculadora.dividir(6, 0)
+
+
+if __name__ == "__main__":
+    unittest.main()
