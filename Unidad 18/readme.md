@@ -16,4 +16,4 @@ no relacionales, se pide resolver los siguientes puntos:
 # Notas 📄
 - Se creó una Base de Datos "Unidad 18" desde la interfaz Compass.
 - Se abrió la consola MONGOSH de MongoDB.
-- Se ejecutaron los comandos que resuelven la consigna como se puede observar en la imagen "comandos.png".
+- Se ejecutaron los comandos que resuelven la consigna como se puede observar en la imagen "comandos.png" o en el archivo "comandos.txt".
