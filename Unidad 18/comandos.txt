@@ -1,0 +1,27 @@
+# Acceder a la base de datos del paso 2
+use Unidad18
+
+# Crear dos colecciones
+db.createCollection("Juegos")
+db.createCollection("Peliculas")
+
+# Insertar 1 documento
+db.Juegos.insertOne({_id:1, Nombre:"League of Legends", Genero:"MOBA"})
+
+# Insertar varios documentos con un solo comando
+db.Juegos.insertMany([
+    {_id:1, Titulo:"Kimi no Na wa", Año:2016, Pais:"Japón"},
+    {_id:2, Titulo:"Harry Potter y la piedra filosofal", Año:2001, Pais:"Reino Unido"}
+])
+
+# Listar los documentos existentes en una colección
+db.Peliculas.find()
+
+# Listar un documento específico dentro de la colección
+db.Juegos.find({Genero:"MOBA"})
+
+# Realizar un update en un registro
+db.Juegos.updateOne({_id:1}, {$set:{Año:2009}})
+
+# Realizar un update a varios registros de forma simultánea
+db.Juegos.updateMany({_id:{$gte:1}}, {$set:{Actualizado:true}})
