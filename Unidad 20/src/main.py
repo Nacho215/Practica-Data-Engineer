@@ -44,3 +44,13 @@ df_medals_usa_1950.to_sql(
     if_exists='replace',
     index_label='IdMedal'
     )
+
+# Check data in database
+query = "SELECT * FROM medals LIMIT 10"
+cursor.execute(query)
+results = cursor.fetchall()
+for r in results:
+    print(r)
+
+# Close connection
+conn.close()
