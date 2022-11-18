@@ -10,3 +10,15 @@ test_sumar (__main__.TestFunctions) ... ok
 Ran 4 tests in 0.003s
 
 OK
+
+*************TESTING*************
+11/18/2022, 11:34:20
+test_dividir (__main__.TestFunctions) ... ok
+test_multiplicar (__main__.TestFunctions) ... ok
+test_restar (__main__.TestFunctions) ... ok
+test_sumar (__main__.TestFunctions) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.003s
+
+OK
